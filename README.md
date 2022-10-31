@@ -5,7 +5,7 @@ I recently did a two week live project at the end of my python course at The Tec
 
 Below are descriptions of the stroies that were worked on, along with the code used to complete them.
 
-#CRUD
+# CRUD
 My code for my CRUD functions. They all have thier own links and pages dedicated to their respective functions.
 
 # Story 1: Create a new app for the project, named appropriately for what you are tracking, and get it to display a home page with basic content.
