@@ -21,10 +21,8 @@ Pictures: Crud|App(Details)|DetailsHTML
     
 # Story 5: Allow for edits and delete functions to be done from the details page or from separate pages. Have confirmation before deleting.
 Pictures: Crud(2)|App(ConfirmDelete)|App(update)
-
-# Beautiful Soup
  
-Story 6: Create a new template for displaying information sourced from another website. Use Beautiful Soup to data scrape the site and find the relevant information.
+# Story 6: Create a new template for displaying information sourced from another website. Use Beautiful Soup to data scrape the site and find the relevant information.
 Pictures: BeautifulSoup|App(BeautifulSoup)
 
 # Skills Learned
