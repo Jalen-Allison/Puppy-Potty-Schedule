@@ -8,24 +8,24 @@ Below are descriptions of the stories that were worked on and finished. Theres s
 # CRUD
 
 # Story 1: Create a new app for the project, named appropriately for what you are tracking, and get it to display a home page with basic content.
-Pictures: Crud/App(home)
+Pictures: Crud|App(home)
     
 # Story 2: Create a model for the collection item you will be tracking and add the ability to create a new item.
-Pictures: Crud/App(create)
+Pictures: Crud|App(create)
 
 # Story 3: Display information from the database in a page.
-Pictures: Crud/App(List) ListHTML
+Pictures: Crud|App(List) |ListHTML
 
 # Story 4: Create a details page that will show the details of any single item from within the database, as selected by the user. Link this to the index page for each item.
-Pictures: Crud/App(Details) DetailsHTML
+Pictures: Crud|App(Details)|DetailsHTML
     
 # Story 5: Allow for edits and delete functions to be done from the details page or from separate pages. Have confirmation before deleting.
-Pictures: Crud(2)/App(ConfirmDelete)/App(update)
+Pictures: Crud(2)|App(ConfirmDelete)|App(update)
 
 # Beautiful Soup
  
 Story 6: Create a new template for displaying information sourced from another website. Use Beautiful Soup to data scrape the site and find the relevant information.
-Pictures: BeautifulSoup/App(BeautifulSoup)
+Pictures: BeautifulSoup|App(BeautifulSoup)
 
 # Skills Learned
 Working on a deadline and having daily standup taught me how to stay on schedule and adhere to the work schedule I set out to for the day or having to make the neccessary adjustments if my original timeline didnt go as planned. 
