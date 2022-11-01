@@ -1,7 +1,7 @@
 # Live-Project
 
 # Introduction
-I recently did a two week live project at the end of my python course at The Tech Academy. I worked on building my own app that allows you to use CRUD functionality to keep track of your puppies potty schedule using the djgano framework. There were different stories describing the tasks that needed to be completed for the app through Azure Devops version control. As I progressed I built the front end and back end side of my app. It was a great opportunity to do live problem solving without a tutorial guiding every step of the way. The IDE used was PyCharm. I'm proud of the app I built, its design and functionality given the timeframe. While doing this two week sprint I had the chance to utilize project managemnt skills that will be used throughout my career.
+I recently did a two week live project at the end of my python course at The Tech Academy. I worked on building my own app that allows you to use CRUD functionality to keep track of your puppies potty schedule using the djgano framework. There were different stories describing the tasks that needed to be completed for the app through Azure Devops version control. As I progressed I built the front end and back end side of my app. It was a great opportunity to do live problem solving without a tutorial guiding every step of the way. The IDE used was PyCharm. I'm proud of the app I built, its design and functionality given the timeframe. While doing this two week sprint I had the chance to utilize project management skills that will be used throughout my career.
 
 Below are descriptions of the stroies that were worked on, along with the code used to complete them.
 
