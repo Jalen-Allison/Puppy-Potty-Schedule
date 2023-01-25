@@ -14,13 +14,13 @@ Pictures: Crud[Code Screenshot] | App(home)[Webpage screenshot]
 Pictures: Crud [Code Screenshot]  | App(create)[Webpage screenshot]
 
 ### Story 3: Display information from the database in a page.
-Pictures: Crud [Code Screenshot]  | App(List)[Webpage screenshot]|ListHTML
+Pictures: Crud [Code Screenshot]  | ListHTML[Code Screenshot] | App(List)[Webpage screenshot]  
 
 ### Story 4: Create a details page that will show the details of any single item from within the database, as selected by the user. Link this to the index page for each item.
-Pictures: Crud [Code Screenshot]  | App(Details)[Webpage screenshot]|DetailsHTML[Code]
+Pictures: Crud [Code Screenshot]  | App(Details)[Webpage screenshot]| DetailsHTML[Code Screenshot]
     
 ### Story 5: Allow for edits and delete functions to be done from the details page or from separate pages. Have confirmation before deleting.
-Pictures: Crud(2) [Code Screenshot] | App(ConfirmDelete) [Webpage screenshot]| App(update)[Webpage screenshot]
+Pictures: Crud(2) [Code Screenshot] | App(ConfirmDelete) [Webpage screenshot] | App(update)[Webpage screenshot]
  
 ### Story 6: Create a new template for displaying information sourced from another website. Use Beautiful Soup to data scrape the site and find the relevant information.
 Pictures: BeautifulSoup[Code Screenshot] | App(BeautifulSoup)[Webpage screenshot]
