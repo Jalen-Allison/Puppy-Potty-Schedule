@@ -31,9 +31,6 @@ Below are descriptions of the stories that were worked on and finished. Theres s
 ## WebPage Confirm delete page ![](images/App(ConfirmDelete).png) 
 ## Code for the crud ![](images/Crud(2).png)
  
-### Story 6: Create a new template for displaying information sourced from another website. Use Beautiful Soup to data scrape the site and find the relevant information.
-## WebPage BeautifulSoup page ![](images/App(BeautifulSoup).png) 
-## Code for BeautifulSoup ![](images/BeautifulSoup.png)
 
 ### Skills Learned
 My main hurdle that I learned from was that nothing should be named the same thing as your model or the computer wont understand what you're trying to call to function. Plus, it also gets confusing on my end when I'm looking through my code and the same name is being used for different functions or labels especially when there is an error.
