@@ -1,7 +1,7 @@
 # Puppy potty schedule app using Python/Django
 
 # Introduction
-I worked on building my own app that allows you to use CRUD functionality to keep track of your puppies potty schedule using the djgano framework. There were different stories describing the tasks that needed to be completed for the app through Azure Devops. As I progressed I built the front end and back end side of my app. It was a great opportunity to do live problem solving without a tutorial guiding every step of the way. The IDE used was PyCharm. I'm proud of this app and its design and functionality given the timeframe. This was done during a two week sprint that allowed me the chance to utilize my project management skills that I learned which will be continued to be used throughout my career.
+During this two-week sprint, I built the front end and backside of an app that allows you to use CRUD functionality to keep track of your puppy's potty schedule using python and Django framework. The IDE used was PyCharm. There were different stories describing the tasks that needed to be completed for the app through Azure DevOps. There was a daily stand-up with other developers discussing roadblocks, what we have been working on, and what we plan on getting done that day. 
 
 Below are descriptions of the stories that were worked on and finished. Theres seperate screenshots of the code associated and how the app looks and works.
 
